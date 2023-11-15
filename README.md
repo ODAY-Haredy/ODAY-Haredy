@@ -45,6 +45,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alyfarrag43@gmail.com)](mailto:odayharedy@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/oday-haredy-113a71225?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
+<a href="https://t.me/oday33h" target="_blank"><img src="https://img.shields.io/badge/-Oday%20Haredy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 
