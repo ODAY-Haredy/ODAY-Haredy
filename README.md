@@ -13,7 +13,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
-<h3>🚀 About Me</h3> 
+<h3>🚀 About Me :</h3> 
 <h4> I'm Oday Haredy from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks. For This Moment I'm junior web developer and learning increasingly.<br/> <br/>
  👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills. </h4>
 
@@ -33,7 +33,7 @@
 
 
 
-- ### I’m currently learning 
+- ### I’m currently learning : 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 
