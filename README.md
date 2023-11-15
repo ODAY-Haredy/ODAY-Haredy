@@ -15,7 +15,7 @@
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Oday Haredy from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks. For This Moment I'm junior web developer and learning increasingly. </h4>
-
+- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 
 <br/>	
 <br/>
