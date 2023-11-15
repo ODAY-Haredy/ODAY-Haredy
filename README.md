@@ -11,8 +11,8 @@
 <h4> I'm Oday Haredy from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks. For This Moment I'm junior web developer and learning increasingly. </h4>
 
 
-	
-
+<br/>	
+<br/>
 <!-- <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px> -->
 
 ### Languages and Tools 🛠 : 
@@ -29,9 +29,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+<br/>
+<br/>
+<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px> -->
 
  ### 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alyfarrag43@gmail.com)](mailto:odayharedy@gmail.com)
